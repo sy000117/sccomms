@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">SCcomms</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="cometchat_unified_description" tools:ignore="ExtraTranslation" translatable="false">Click "Launch" to use this app.</string>
+    <string name="channel_description" />
+
+
+</resources>
